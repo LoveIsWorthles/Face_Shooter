@@ -1,0 +1,4 @@
+repository "Face Shooter/Face Shooter@1375101962768@cloud"
+  path "/"
+    br "/main"
+    co "/main"
